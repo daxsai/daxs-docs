@@ -1,4 +1,4 @@
-# DAXS AI: Decentralized AI Swarm Network for Data Intelligence
+# DAXS AI: Decentralized AI Network for Data Intelligence
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Documentation](https://img.shields.io/badge/docs-latest-blue.svg)](docs/)
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Adaptive data intelligence agent & swarm creator. Deploy AI-powered analytics, track on-chain/off-chain data, and automate execution.
+Adaptive data intelligence agent. Deploy AI-powered analytics, track on-chain/off-chain data, and automate execution.
 
 ## Getting Started
 
